@@ -46,6 +46,7 @@
 - [Java Tasks from Live coding](https://github.com/GitLobanov/java-live-coding-one)
 - [Fool docker compose - in preper]
 - [Examples Java Spring with Databases - in preper]
+- [Own java road map - in thinking...]
 - [In thinking...]
 
  **<h3 align="left">GitHub Stats</h3>**
