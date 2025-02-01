@@ -41,6 +41,13 @@
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" height="32" alt="Unity" style="margin-right: 4px">
 </div>
 
+**<h3 align="left">So, that can I give you?</h3>**
+
+- [Java Tasks from Live coding](https://github.com/GitLobanov/java-live-coding-one)
+- [Fool docker - in preper]
+- [Examples Java Spring with Databases - in preper]
+- [In thinking...]
+
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
