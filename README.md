@@ -44,7 +44,7 @@
 **<h3 align="left">So, that can I give you?</h3>**
 
 - [Java Tasks from Live coding](https://github.com/GitLobanov/java-live-coding-one)
-- [Fool docker compose - in preper]
+- [Fool docker compose](https://github.com/GitLobanov/fool-docker-compose)
 - [Examples Java Spring with Databases - in preper]
 - [Own java road map - in thinking...]
 - [In thinking...]
