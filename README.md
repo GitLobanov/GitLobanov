@@ -22,24 +22,16 @@
 
  **<h3 align="center">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" height="32" alt="Kotlin" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="32" alt="Spring" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="32" alt="Redis" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="32" alt="Kubernetes" style="margin-right: 4px"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" height="32" alt="Kafka" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="32" alt="Jenkins" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" height="32" alt="GitLab CI" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" height="32" alt="Ansible" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" height="32" alt="Terraform" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" height="32" alt="Unity" style="margin-right: 4px">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin"/>
+    <img src="https://skillicons.dev/icons?i=spring"/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis"/>
+    <img src="https://skillicons.dev/icons?i=kafka"/>
+    <img src="https://skillicons.dev/icons?i=gitlab,github"/>
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker"/>
+  </a>
+</p>
 
 **<h3 align="left">So, that can I give you?</h3>**
 
