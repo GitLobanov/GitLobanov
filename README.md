@@ -20,7 +20,7 @@
 - 🌱 I'm currently learning: **Spanish and DevOps things, also repeat and repeat**
 - ⚡ Goal: **The big goal is to participate in the construction of an interstellar space station**
 
- **<h3 align="center">Skills</h3>**
+ **<h3>Novice Skills</h3>**
 
 <p align="center">
   <a href="https://skillicons.dev">
